@@ -12,6 +12,12 @@ export default [
         url: "https://animedia.netlify.app/",
     },
     {
+        title: "Animeversum",
+        summary: "Website made to feature technical achievments and best performing Jikan API website",
+        imageUrl: "https://animeversum.netlify.app/media/animeversumpng.webp",
+        url: "https://animeversum.netlify.app/",
+    },
+    {
         title: "BetterMAL",
         summary: "Once upon a time there was a site called MAL. It was a good site but their \"dev team\" never updated\n" +
             "                    the site. It looks like from 2007. I thought like \"Well I can fix things\".",
